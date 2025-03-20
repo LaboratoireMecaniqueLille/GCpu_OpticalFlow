@@ -14,7 +14,8 @@ A. For the CPU version:
 - `Numpy <https://numpy.org/>`_ 1.20.3 or newer     
 - `Scikit-image <https://scikit-image.org/>`_ 0.16.2  or newer    
 - `Scipy <https://scipy.org>`_ 1.6.3 or newer   
-- `OpenCV <https://opencv.org/>`_ 4.2.0 or newer   
+- `OpenCV <https://opencv.org/>`_ 4.2.0 or newer
+- `Matplotlib <https://matplotlib.org/>`_
 
 
 
