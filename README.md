@@ -8,7 +8,8 @@ To use the code, you  will need Python 3 (3.6 or higher) with the following modu
 - [Numpy](https://numpy.org/) 1.20.3 or newer     
 - [Scikit-image](https://scikit-image.org/) 0.16.2  or newer    
 - [Scipy](https://scipy.org/) 1.6.3 or newer   
-- [OpenCV](https://opencv.org/) 4.2.0 or newer  
+- [OpenCV](https://opencv.org/) 4.2.0 or newer
+- [Matplotlib](https://matplotlib.org/)
 - You may also need [Numba](https://numba.pydata.org/) if Li and Osher filter will be used      
  
 **For the CPU version:**    
