@@ -14,7 +14,7 @@ description ="A python module for accelerated optical flow measurement."
 readme = "README.md"
 requires-python = ">=3.6"
 keywords = ["Optical Flow", "Correlation", "GPU"]
-license = {file = "LICENSE.txt"}
+license-files = ["LICENSE.txt"]
 classifiers = [
     "Programming Language :: Python :: 3",
 ]
