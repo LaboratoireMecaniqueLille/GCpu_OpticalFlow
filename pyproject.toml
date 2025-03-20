@@ -29,5 +29,5 @@ dependencies = [
 version = "0.0.1"
 
 [tool.setuptools.packages.find]
-where = ["Src"]
+where = ["src"]
 namespaces = false
