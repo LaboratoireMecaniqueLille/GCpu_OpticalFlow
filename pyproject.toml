@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ASAHM"
+name = "gcpu_opti_flow"
 authors = [
     {name = "Ahmed Chabib", email = "ahmed.chabib16@gmail.com"},
 ]
