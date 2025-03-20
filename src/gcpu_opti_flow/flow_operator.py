@@ -1,11 +1,11 @@
 import numpy as np
 import math
 import code
-from utils import *
+from .utils import *
 import scipy.sparse as sparse
 #import denoise_LO as lo
 import time
-import solveur_precond as sop
+from . import solveur_precond as sop
 #import s as sop
 
 ###########################################################

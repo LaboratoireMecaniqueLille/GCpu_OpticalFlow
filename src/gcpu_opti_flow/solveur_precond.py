@@ -1,8 +1,8 @@
 import numpy as np
-from utils import *
+from .utils import *
 from scipy.sparse.linalg import LinearOperator
 import scipy.sparse as sparse
-from precond import Px
+from .precond import Px
 
 ##########################################################################
 

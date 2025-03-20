@@ -1,5 +1,5 @@
 import numpy as np
-from utils import *
+from .utils import *
 
 
 def Px(Ix2, Iy2, lmbda, lmbda2, N, M, x):

@@ -1,9 +1,9 @@
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-from utils import *
-import flow_operator as fo
-import energies as en
+from .utils import *
+from . import flow_operator as fo
+from . import energies as en
 import time
 
 
